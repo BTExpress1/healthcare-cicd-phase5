@@ -4,6 +4,10 @@
   "max_as_of_date": "2025-12-31",
   "risk_score_mean": 0.625,
   "risk_score_median": 0.595,
-  "top10_providers_by_risk": ["0001", "0002", "0003"],
+  "top10_providers_by_risk": [
+    "0001",
+    "0002",
+    "0003"
+  ],
   "generated_on": "2026-01-14"
 }

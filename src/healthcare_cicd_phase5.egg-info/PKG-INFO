@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: healthcare-cicd-phase5
+Version: 0.1.0
+Summary: Phase 5: CI/CD discipline for Healthcare Signals provider risk analytics
+Requires-Python: >=3.11
+Requires-Dist: pandas>=2.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: ruff>=0.5; extra == "dev"
